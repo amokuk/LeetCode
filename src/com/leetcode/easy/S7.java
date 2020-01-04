@@ -1,6 +1,6 @@
-package com.leetcode.easy.seven;
+package com.leetcode.easy;
 
-public class Solution7 {
+public class S7 {
     public int reverse(int x) {
         int ret = 0;
         while(x != 0) {
