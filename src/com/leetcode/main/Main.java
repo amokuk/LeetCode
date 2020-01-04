@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 
 public class Main {
     public static void main(String[] args) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
-        int testNo = 9;
+        int testNo = 14;
         if(testNo < 100) {
             Test0 test0 = new Test0();
             Method method = test0.getClass().getMethod("t" + testNo);
