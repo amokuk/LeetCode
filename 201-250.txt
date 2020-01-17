@@ -1,0 +1,2 @@
+217 Contains Duplicate
+用一个set(list),如果发现重复就返回true;
